@@ -7,7 +7,7 @@
                 <div class="col-xl-2 col-lg-2 col-md-2">
                     <div class="logo">
                         {{-- <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a> --}}
-                        <h3>th</h3>
+                        <h3>thg</h3>
                     </div>
                 </div>
                 <div class="col-xl-10 col-lg-10 col-md-10">
