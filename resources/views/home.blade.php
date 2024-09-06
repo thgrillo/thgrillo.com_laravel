@@ -5,8 +5,8 @@
 
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" data-navbar-on-scroll="data-navbar-on-scroll">
         <div class="container"><a class="navbar-brand d-flex align-items-center fw-bold fs-2" href="index.html">
-            <div class="text-warning">App</div>
-            <div class="text-1000">Lab</div>
+            <div class="text-warning">th</div>
+            <div class="text-1000">grillo</div>
         </a>
         <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
@@ -18,7 +18,14 @@
             <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#faq">FAQ</a></li>
             </ul>
             <form class="ps-lg-5">
-            <button class="btn btn-lg btn-primary rounded-pill order-0" type="submit">Entre em contato</button>
+            {{-- <button class="btn btn-lg btn-primary rounded-pill order-0" type="submit">Entre em contato</button> --}}
+            <a href="https://api.whatsapp.com/send?phone=5541996241011&text=Ol%C3%A1%2C+th%21%0A%0Avenho+do+site+%2Athgrillo.com%2A.%0A%0AVou+te+passar+mais+informa%C3%A7%C3%B5es+sobre+meu+neg%C3%B3cio."
+   class="btn btn-lg btn-primary rounded-pill order-0" 
+   target="_blank" 
+   rel="noopener noreferrer">
+    Entre em contato
+</a>
+
             </form>
         </div>
         </div>
@@ -150,8 +157,9 @@
         <div class="row align-items-center">
             <div class="col-md-5 order-md-0 text-center text-md-start"><img class="img-fluid mb-4" src="assets/img/illustrations/call-to-action.png" width="550" alt="" /></div>
             <div class="col-md-6 text-center text-md-start offset-md-1">
-            <h6 class="fw-bold fs-4 display-3 lh-sm">Desenhado &amp; feito para<br />códigos modernos <br />de integração</h6>
-            <p class="my-4 pe-xl-5"> The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.</p><a class="btn btn-lg btn-primary rounded-pill hover-top" href="#" role="button">Learn more</a>
+            <h6 class="fw-bold fs-4 display-3 lh-sm">Desenhado &amp; programado<br />pro seu negócio<br />pra você</h6>
+            <p class="my-4 pe-xl-5">Temos serviços adicionais caso seja necessário alguma ferramenta customizável.</p>
+            {{-- <a class="btn btn-lg btn-primary rounded-pill hover-top" href="#" role="button">Learn more</a> --}}
             </div>
         </div>
         </div>
@@ -178,13 +186,13 @@
         <div class="row">
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/app.png" width="90" alt="" />
-                <h5 class="fw-bold">Web Apps</h5>
+                <h5 class="fw-bold">Desenvolvimento Web</h5>
                 <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
             </div>
             </div>
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/time-award.png" width="90" alt="" />
-                <h5 class="fw-bold">Valores Definidos</h5>
+                <h5 class="fw-bold">Foco na Qualidade</h5>
                 <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
             </div>
             </div>
@@ -232,20 +240,20 @@
             <div class="row align-items-center">
             <div class="col-md-5 order-md-1 text-center text-md-start"><img class="img-fluid mb-4" src="assets/img/illustrations/ultimate-feature.png" alt="" /></div>
             <div class="col-md-6 text-center text-md-start">
-                <h6 class="fw-bold fs-4 display-3 lh-sm">Ultimate features<br />that we built</h6>
+                <h6 class="fw-bold fs-4 display-3 lh-sm">Ultimos serviços<br />que criamos</h6>
                 <p class="my-4 pe-xl-5"> The rise of mobile devices transforms the way we consume information entirely.</p>
                 <div class="row">
                 <div class="col-md-6">
                     <div class="mb-4">
                     <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/app.png" width="90" alt="" /></div>
-                    <h5 class="fw-bold text-undefined">App Development</h5>
+                    <h5 class="fw-bold text-undefined">WebApp</h5>
                     <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="mb-4">
                     <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/ux.png" width="90" alt="" /></div>
-                    <h5 class="fw-bold text-undefined">UX Planning</h5>
+                    <h5 class="fw-bold text-undefined">Planejamento UX</h5>
                     <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
                     </div>
                 </div>
@@ -259,7 +267,7 @@
                 <div class="col-md-6">
                     <div class="mb-4">
                     <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/support.png" width="90" alt="" /></div>
-                    <h5 class="fw-bold text-undefined">Customer support</h5>
+                    <h5 class="fw-bold text-undefined">Suporte Técnico</h5>
                     <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
                     </div>
                 </div>
@@ -284,35 +292,36 @@
         <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8 col-lg-6 col-xxl-5 text-center mb-3">
-            <h6 class="fw-bold fs-4 display-3 lh-sm mb-3">Get awesome features, without extra charges</h6>
+            <h6 class="fw-bold fs-4 display-3 lh-sm mb-3">Garanta bons serviços, cobranças extras</h6>
             <p class="mb-4">The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.</p>
             </div>
         </div>
         <div class="row flex-center">
             <div class="col-12 mb-3">
             <div class="d-flex justify-content-center">
-                <label class="form-check-label me-2" for="customSwitch1">Monthly</label>
+                {{-- <label class="form-check-label me-2" for="customSwitch1">Mensal</label>
                 <div class="form-check form-switch">
                 <input class="form-check-input" id="customSwitch1" type="checkbox" checked="checked" />
-                <label class="form-check-label align-top" for="customSwitch1">Yearly</label>
-                </div>
+                <label class="form-check-label align-top" for="customSwitch1">Anual</label>
+                </div> --}}
             </div>
             </div>
             <div class="col-lg-4">
-            <div class="card shadow-lg mb-4 border-0">
+                <div class="card shadow-lg mb-4 border-0">
                 <div class="card-header border-bottom-0 pt-7 pb-5">
                 <div class="d-flex justify-content-center">
-                    <h1 class="fw-bold">$0</h1><span class="d-flex align-items-center">/month</span>
+                    <h1 class="fw-bold">$69</h1><span class="d-flex align-items-center">/mês</span>
                 </div>
-                <h5 class="fw-bold text-center">Business Class</h5><span class="text-700 text-center d-block">For small teams or office</span>
+                <h5 class="fw-bold text-center">Basic</h5><span class="text-700 text-center d-block">Empresa pequena ou Portfólio</span>
                 </div>
                 <div class="card-body mx-auto">
                 <ul class="list-unstyled mb-4">
-                    <li class="text-700 py-2 text-secondary">Darg &amp; Drop Builder</li>
-                    <li class="text-700 py-2 text-secondary">1,000's of Templates</li>
-                    <li class="text-700 py-2 text-secondary">Blog Support Tools</li>
-                    <li class="text-700 py-2 text-secondary">eCommerce Store </li>
-                </ul><a class="btn btn-lg btn-primary rounded-pill mb-3" href="#">Start free trial</a>
+                    <li class="text-700 py-2 text-secondary">Design Responsivo</li>
+                    <li class="text-700 py-2 text-secondary">Até 5 páginas</li>
+                    <li class="text-700 py-2 text-secondary">SEO básico</li>
+                    <li class="text-700 py-2 text-secondary">Hospedagem e domínio</li>
+                    <li class="text-700 py-2 text-secondary">Suporte Técnico 3 meses    </li>
+                </ul><a class="btn btn-lg btn-primary rounded-pill mb-3" href="#">Fechar</a>
                 </div>
             </div>
             </div>
@@ -320,18 +329,42 @@
             <div class="card shadow-lg mb-4">
                 <div class="card-header border-bottom-0 pt-7 pb-5">
                 <div class="d-flex justify-content-center">
-                    <h1 class="fw-bold">$99</h1><span class="d-flex align-items-center">/month</span>
+                    <h1 class="fw-bold">$189</h1><span class="d-flex align-items-center">/mês</span>
                 </div>
-                <h5 class="fw-bold text-center">Pro Master</h5><span class="text-700 text-center d-block">For small teams or office</span>
+                <h5 class="fw-bold text-center">Business</h5><span class="text-700 text-center d-block">For small teams or office</span>
                 </div>
                 <div class="card-body mx-auto">
                 <ul class="list-unstyled mb-4">
-                    <li class="text-700 py-2 text-secondary">Darg &amp; Drop Builder</li>
-                    <li class="text-700 py-2 text-secondary">1,000's of Templates</li>
-                    <li class="text-700 py-2 text-secondary">Blog Support Tools</li>
-                    <li class="text-700 py-2 text-secondary">eCommerce Store </li>
+                    <li class="text-700 py-2 text-secondary">Design Responsivo</li>
+                    <li class="text-700 py-2 text-secondary">Até 10 páginas personalizadas</li>
+                    <li class="text-700 py-2 text-secondary">SEO otimizado</li>
+                    <li class="text-700 py-2 text-secondary">Blog</li>
+                    <li class="text-700 py-2 text-secondary">Funcionalidades simples</li>
+                    <li class="text-700 py-2 text-secondary">Suporte por 6 meses</li>
                 </ul>
-                <div class="d-flex flex-column"> <a class="btn btn-lg btn-primary rounded-pill mb-3" href="#">Start free trial</a><a href="#">Or Start 14 days trail</a></div>
+                <div class="d-flex flex-column"> <a class="btn btn-lg btn-primary rounded-pill mb-3" href="#">Fechar</a></div>
+                </div>
+            </div>
+            </div>
+            <div class="col-lg-4">
+            <div class="card shadow-lg mb-4">
+                <div class="card-header border-bottom-0 pt-7 pb-5">
+                <div class="d-flex justify-content-center">
+                    <h1 class="fw-bold">$489</h1><span class="d-flex align-items-center">/mês</span>
+                </div>
+                <h5 class="fw-bold text-center">Master</h5><span class="text-700 text-center d-block">E-commerce, empresas com alta demanda de conteúdo.</span>
+                </div>
+                <div class="card-body mx-auto">
+                <ul class="list-unstyled mb-4">
+                    <li class="text-700 py-2 text-secondary">Design Responsivo</li>
+                    <li class="text-700 py-2 text-secondary">Hospedagem dedicada</li>
+                    <li class="text-700 py-2 text-secondary">Páginas Ilimitadas</li>
+                    <li class="text-700 py-2 text-secondary">SEO otimizado / Performance</li>
+                    <li class="text-700 py-2 text-secondary">Blog, Loja Virtual</li>
+                    <li class="text-700 py-2 text-secondary">Funcionalidades Avançadas</li>
+                    <li class="text-700 py-2 text-secondary">Suporte por 12 meses</li>
+                </ul>
+                <div class="d-flex flex-column"> <a class="btn btn-lg btn-primary rounded-pill mb-3" href="#">Fechar</a></div>
                 </div>
             </div>
             </div>
@@ -344,7 +377,7 @@
     <!-- ============================================-->
 
 
-    <section class="py-8" id="testimonial">
+    {{-- <section class="py-8" id="testimonial">
         <div class="container-lg">
         <div class="row flex-center">
             <div class="col-sm-10 col-md-5 col-lg-5 order-md-0 text-center text-md-start"><img class="img-fluid mb-4" src="assets/img/illustrations/testimonial.png" alt="" /></div>
@@ -452,7 +485,7 @@
             </div>
         </div>
         </div>
-    </section>
+    </section> --}}
 
 
     <!-- ============================================-->
@@ -462,8 +495,8 @@
         <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8 col-lg-6 text-center mb-3">
-            <h6 class="fw-bold fs-4 display-3 lh-sm mb-3">Frequently asked questions</h6>
-            <p class="mb-5">The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.</p>
+            <h6 class="fw-bold fs-4 display-3 lh-sm mb-3">FAQ</h6>
+            <p class="mb-5">Caso sua pergunta não esteja elencada abaixo, nos envie uma mensagem!</p>
             </div>
         </div>
         <div class="row flex-center">
@@ -471,7 +504,7 @@
             <div class="accordion" id="accordionExample">
                 <div class="accordion-item mb-2">
                 <h2 class="accordion-header" id="heading1">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1"><span class="mb-0 fw-bold text-start fs-1 text-1000">How to contact with riders emergency?</span></button>
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1"><span class="mb-0 fw-bold text-start fs-1 text-1000">Posso escolher o tema do meu site?</span></button>
                 </h2>
                 <div class="accordion-collapse collapse show" id="collapse1" aria-labelledby="heading1" data-bs-parent="#accordionExample">
                     <div class="accordion-body bg-100">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</div>
@@ -479,7 +512,7 @@
                 </div>
                 <div class="accordion-item mb-2">
                 <h2 class="accordion-header" id="heading2">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true" aria-controls="collapse2"><span class="mb-0 fw-bold text-start fs-1 text-1000">App installation failed, how to update system information?</span></button>
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true" aria-controls="collapse2"><span class="mb-0 fw-bold text-start fs-1 text-1000">Em quanto tempo o meu site estará no ar?</span></button>
                 </h2>
                 <div class="accordion-collapse collapse" id="collapse2" aria-labelledby="heading2" data-bs-parent="#accordionExample">
                     <div class="accordion-body bg-100">You can issue either partial or full refunds. There are no fees to refund a charge, but the fees from the original charge are not returned.</div>
@@ -487,7 +520,7 @@
                 </div>
                 <div class="accordion-item mb-2">
                 <h2 class="accordion-header" id="heading3">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="true" aria-controls="collapse3"><span class="mb-0 fw-bold text-start fs-1 text-1000">Website reponse taking time, how to improve?</span></button>
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="true" aria-controls="collapse3"><span class="mb-0 fw-bold text-start fs-1 text-1000">Preciso de um sistema customizado, vocês fazem?</span></button>
                 </h2>
                 <div class="accordion-collapse collapse" id="collapse3" aria-labelledby="heading3" data-bs-parent="#accordionExample">
                     <div class="accordion-body bg-100">Disputed payments (also known as chargebacks) incur a $15.00 fee. If the customer’s bank resolves the dispute in your favor, the fee is fully refunded.</div>
@@ -495,7 +528,7 @@
                 </div>
                 <div class="accordion-item mb-2">
                 <h2 class="accordion-header" id="heading4">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="true" aria-controls="collapse4"><span class="mb-0 fw-bold text-start fs-1 text-1000">New update fixed all bug and issues</span></button>
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="true" aria-controls="collapse4"><span class="mb-0 fw-bold text-start fs-1 text-1000">O suporte técnico pode me ajudar em qualquer momento?</span></button>
                 </h2>
                 <div class="accordion-collapse collapse" id="collapse4" aria-labelledby="heading4" data-bs-parent="#accordionExample">
                     <div class="accordion-body bg-100">There are no additional fees for using our mobile SDKs or to accept payments using consumer wallets like Apple Pay or Google Pay.</div>
@@ -503,7 +536,7 @@
                 </div>
                 <div class="accordion-item mb-2">
                 <h2 class="accordion-header" id="heading5">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5"><span class="mb-0 fw-bold text-start fs-1 text-1000">How to contact with riders emergency?</span></button>
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5"><span class="mb-0 fw-bold text-start fs-1 text-1000">Podemos fazer uma parceria?</span></button>
                 </h2>
                 <div class="accordion-collapse collapse" id="collapse5" aria-labelledby="heading5" data-bs-parent="#accordionExample">
                     <div class="accordion-body bg-100">There are no additional fees for using our mobile SDKs or to accept payments using consumer wallets like Apple Pay or Google Pay.</div>
@@ -520,7 +553,7 @@
     <!-- ============================================-->
 
 
-    <section class="py-6">
+    {{-- <section class="py-6">
         <hr />
         <div class="container">
         <div class="row align-items-center">
@@ -532,7 +565,7 @@
             </div>
         </div>
         </div>
-    </section>
+    </section> --}}
 
 
     <!-- ============================================-->
@@ -542,17 +575,17 @@
         <div class="container">
         <div class="row flex-center">
             <div class="col-auto mb-5"><a class="pe-2 d-flex align-items-center text-decoration-none fw-bold fs-3" href="#">
-                <div class="text-warning">App</div>
-                <div class="text-white">Lab</div>
+                <div class="text-warning">th</div>
+                <div class="text-white">grillo</div>
             </a></div>
         </div>
         <div class="row flex-center">
             <div class="col-auto mb-5">
             <ul class="list-unstyled list-inline mb-0">
                 <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Home</a></li>
-                <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Key Features</a></li>
-                <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Pricing</a></li>
-                <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Testimonial</a></li>
+                <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Serviços</a></li>
+                <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Planos</a></li>
+                <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Depoimentos</a></li>
                 <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">FAQ</a></li>
             </ul>
             </div>

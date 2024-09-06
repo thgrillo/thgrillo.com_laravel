@@ -72,6 +72,18 @@
     <script src="https://cdn.jsdelivr.net/npm/js-polyfills@0.1.43/polyfill.min.js"></script>
     <script src="{{ asset('assets/js/theme.js') }}"></script>
 
+    {{-- WhatsApp button --}}
+    <script type="text/javascript">
+        window.onload = function(){
+        (function(d, script) {
+        script = d.createElement('script');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = 'https://w.app/widget-v1/ydRKcY.js';
+        d.getElementsByTagName('head')[0].appendChild(script);
+        }(document));
+        };
+    </script>
     <!-- Fontes do Google -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400&amp;display=swap" rel="stylesheet">
 
