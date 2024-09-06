@@ -12,13 +12,13 @@
         <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto pt-2 pt-lg-0">
             <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium active" aria-current="page" href="#home">Home</a></li>
-            <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#features">Key Features</a></li>
-            <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#pricing">Pricing</a></li>
-            <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#testimonial">Testimonial</a></li>
+            <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#features">Serviços</a></li>
+            <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#pricing">Planos</a></li>
+            <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#testimonial">Depoimentos</a></li>
             <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#faq">FAQ</a></li>
             </ul>
             <form class="ps-lg-5">
-            <button class="btn btn-lg btn-primary rounded-pill order-0" type="submit">Try for free</button>
+            <button class="btn btn-lg btn-primary rounded-pill order-0" type="submit">Entre em contato</button>
             </form>
         </div>
         </div>
@@ -30,10 +30,13 @@
 
         <div class="container position-relative">
         <div class="row align-items-center py-8">
-            <div class="col-md-5 col-lg-6 order-md-1 text-center text-md-end"><img class="img-fluid" src="assets/img/illustrations/mobile.png" width="350" alt="" /></div>
-            <div class="col-md-7 col-lg-6 text-center text-md-start"><span class="badge bg-light rounded-pill text-dark align-items-center d-flex flex-row-reverse justify-content-end mx-auto mx-md-0 ps-0 w-75 w-sm-50 w-md-75 w-xl-50 mb-3">#1 Editiors Choice App of 2020<img class="img-fluid float-start me-3" src="assets/img/illustrations/arrow-right.png" alt=""/></span>
-            <h1 class="mb-4 display-3 fw-bold lh-sm">Best app for your <br class="d-block d-lg-none d-xl-block" />modern lifestyle</h1>
-            <p class="mt-3 mb-4 fs-1">Increase productivity with a simple to-do app. app for <br class="d-none d-lg-block" />managing your personal budgets.</p><a class="btn btn-lg btn-primary rounded-pill hover-top" href="#" role="button">Try for free</a><a class="btn btn-link ps-md-4" href="#" role="button"> Watch demo video</a>
+            <div class="col-md-5 col-lg-6 order-md-1 text-center text-md-end">
+                <img class="img-fluid" src="assets/img/illustrations/mobile.png" width="350" alt="" />
+            </div>
+            <div class="col-md-7 col-lg-6 text-center text-md-start"><span class="badge bg-light rounded-pill text-dark align-items-center d-flex flex-row-reverse justify-content-end mx-auto mx-md-0 ps-0 w-75 w-sm-50 w-md-75 w-xl-50 mb-3">#1 Sua Melhor Opção<img class="img-fluid float-start me-3" src="assets/img/illustrations/arrow-right.png" alt=""/></span>
+            <h1 class="mb-4 display-3 fw-bold lh-sm">Soluções em TI <br class="d-block d-lg-none d-xl-block" />pra sua Empresa</h1>
+            <p class="mt-3 mb-4 fs-1">Aumente a produtividade do seu negócio <br class="d-none d-lg-block" />managing your personal budgets.</p><a class="btn btn-lg btn-primary rounded-pill hover-top" href="#" role="button">Conhecer</a>
+            {{-- <a class="btn btn-link ps-md-4" href="#" role="button"> Watch demo video</a> --}}
             </div>
         </div>
         </div>
@@ -47,7 +50,7 @@
         <div class="container">
         <div class="row">
             <div class="col-12 mx-auto align-items-center text-center">
-            <p class="mb-4">Trusted by companies like</p>
+            <p class="mb-4">Clientes e Parceiros</p>
             </div>
         </div>
         <div class="row align-items-center justify-content-center justify-content-lg-around">
@@ -70,26 +73,26 @@
         <div class="row align-items-center">
             <div class="col-md-5 col-lg-6 order-md-0 text-center text-md-start"><img class="img-fluid" src="assets/img/illustrations/feature-bg.png" width="550" alt="" /></div>
             <div class="col-md-7 col-lg-6 px-sm-5 px-md-0">
-            <h6 class="fw-bold fs-4 display-3 lh-sm">Awesome apps <br />features</h6>
-            <p class="my-4">Increase productivity with a simple to-do app. app for <br class="d-none d-xl-block" />managing your personal budgets.</p>
+            <h6 class="fw-bold fs-4 display-3 lh-sm">Serviços <br />oferecidos</h6>
+            <p class="my-4">Aumente seu alcance e engajamento no mundo digital <br class="d-none d-xl-block" />Se preocupe somente com o que importa pra você.</p>
             <div class="d-flex align-items-center mb-5">
                 <div><img class="img-fluid" src="assets/img/illustrations/fast-performance.png" width="90" alt="" /></div>
                 <div class="px-4">
-                <h5 class="fw-bold text-danger">Fast performance</h5>
-                <p>Get your blood tests delivered at <br class="d-none d-xl-block"> home collect a sample from the <br class="d-none d-xl-block"> news your blood tests</p>
+                <h5 class="fw-bold text-danger">Performance</h5>
+                <p>Utilizamos técnologias modernas <br class="d-none d-xl-block"> para o seu negócio / empresa <br class="d-none d-xl-block"> estar sempre online.</p>
                 </div>
             </div>
             <div class="d-flex align-items-center mb-5">
                 <div><img class="img-fluid" src="assets/img/illustrations/prototype.png" width="90" alt="" /></div>
                 <div class="px-4">
-                <h5 class="fw-bold text-primary">Prototyping</h5>
+                <h5 class="fw-bold text-primary">SEO</h5>
                 <p>Get your blood tests delivered at <br class="d-none d-xl-block"> home collect a sample from the <br class="d-none d-xl-block"> news your blood tests</p>
                 </div>
             </div>
             <div class="d-flex align-items-center mb-5">
                 <div><img class="img-fluid" src="assets/img/illustrations/vector.png" width="90" alt="" /></div>
                 <div class="px-4">
-                <h5 class="fw-bold text-success">Vector Editing</h5>
+                <h5 class="fw-bold text-success">Designs Modernos</h5>
                 <p>Get your blood tests delivered at <br class="d-none d-xl-block"> home collect a sample from the <br class="d-none d-xl-block"> news your blood tests</p>
                 </div>
             </div>
@@ -106,7 +109,7 @@
         <div class="container">
         <div class="row align-items-center mb-6">
             <div class="col-md-5 col-lg-4 offset-lg-1">
-            <h1 class="fw-bold lh-base">Smart jackpots that you may love this anytime &amp; anywhere</h1>
+            <h1 class="fw-bold lh-base">Esteja onde seus clientes se conectam! Presença é tudo.</h1>
             </div>
             <div class="col-md-6 col-lg-5 offset-lg-1 border-start py-5 ps-5">
             <p class="mb-0">The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.</p>
@@ -115,17 +118,17 @@
         <div class="row">
             <div class="col-md-4 col-lg-3 offset-lg-1 mb-4">
             <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/automatic.png" width="90" alt="" /></div>
-            <h5 class="fw-bold text-danger">Fast performance</h5>
+            <h5 class="fw-bold text-danger">Aumente a carteira de clientes</h5>
             <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
             </div>
             <div class="col-md-4 col-lg-3 offset-lg-1 mb-4">
             <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/network.png" width="90" alt="" /></div>
-            <h5 class="fw-bold text-primary">Prototyping</h5>
+            <h5 class="fw-bold text-primary">Conexões</h5>
             <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
             </div>
             <div class="col-md-4 col-lg-3 offset-lg-1 mb-4">
             <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/rewards.png" width="90" alt="" /></div>
-            <h5 class="fw-bold text-success">Vector Editing</h5>
+            <h5 class="fw-bold text-success">Pós-venda e Suporte</h5>
             <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
             </div>
         </div>
@@ -147,7 +150,7 @@
         <div class="row align-items-center">
             <div class="col-md-5 order-md-0 text-center text-md-start"><img class="img-fluid mb-4" src="assets/img/illustrations/call-to-action.png" width="550" alt="" /></div>
             <div class="col-md-6 text-center text-md-start offset-md-1">
-            <h6 class="fw-bold fs-4 display-3 lh-sm">Designed &amp; built by<br />the latest code <br />integration</h6>
+            <h6 class="fw-bold fs-4 display-3 lh-sm">Desenhado &amp; feito para<br />códigos modernos <br />de integração</h6>
             <p class="my-4 pe-xl-5"> The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.</p><a class="btn btn-lg btn-primary rounded-pill hover-top" href="#" role="button">Learn more</a>
             </div>
         </div>
@@ -168,44 +171,44 @@
         <div class="container">
         <div class="row justify-content-center mb-6">
             <div class="col-lg-6 text-center mx-auto mb-3 mb-md-5 mt-4">
-            <h6 class="fw-bold fs-4 display-3 lh-sm">Why you should choose <br />our app </h6>
+            <h6 class="fw-bold fs-4 display-3 lh-sm">Por que escolher <br />nossa equipe? </h6>
             <p class="mb-0">The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.</p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/app.png" width="90" alt="" />
-                <h5 class="fw-bold">App Development</h5>
+                <h5 class="fw-bold">Web Apps</h5>
                 <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
             </div>
             </div>
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/time-award.png" width="90" alt="" />
-                <h5 class="fw-bold">10 Times Award</h5>
+                <h5 class="fw-bold">Valores Definidos</h5>
                 <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
             </div>
             </div>
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/cloud.png" width="90" alt="" />
-                <h5 class="fw-bold">Cloud Storage</h5>
+                <h5 class="fw-bold">Cloud / Host</h5>
                 <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
             </div>
             </div>
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/customization.png" width="90" alt="" />
-                <h5 class="fw-bold">Customization</h5>
+                <h5 class="fw-bold">Customização</h5>
                 <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
             </div>
             </div>
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/ux.png" width="90" alt="" />
-                <h5 class="fw-bold">UX Planning</h5>
+                <h5 class="fw-bold">Planejamento UX</h5>
                 <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
             </div>
             </div>
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/support.png" width="90" alt="" />
-                <h5 class="fw-bold">Customer Support</h5>
+                <h5 class="fw-bold">Suporte Técnico</h5>
                 <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
             </div>
             </div>
@@ -578,10 +581,10 @@
         </div>
         <div class="row flex-center">
             <div class="col-auto">
-            <p class="mb-0 fs--1 text-700">&copy; This template is made with&nbsp;
+            <p class="mb-0 fs--1 text-700">&copy; made with&nbsp;
                 <svg class="bi bi-suit-heart-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" viewBox="0 0 16 16">
                 <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"></path>
-                </svg>&nbsp;by&nbsp;<a class="text-700" href="https://themewagon.com/" target="_blank">ThemeWagon </a>
+                </svg>&nbsp; by&nbsp;<a class="text-700" href="https://thgrillo.com/" target="_blank">thgrillo </a>
             </p>
             </div>
         </div>
