@@ -56,9 +56,9 @@
             </div>
         </div>
         <div class="row align-items-center justify-content-center justify-content-lg-around">
-            <div class="col-6 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img src="assets/img/gallery/company-1.png" alt="MarGP Logo" style="width: 25%;"/></div>
-            <div class="col-6 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img class="rounded" src="assets/img/gallery/company-2.png" alt="" style="width: 25%;"/></div>
-            <div class="col-6 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img class="rounded" src="assets/img/gallery/company-3.png" alt="" style="width: 25%;"/></div>
+            <div class="col-4 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img src="assets/img/gallery/company-1.png" alt="MarGP Logo" style="width: 25%;"/></div>
+            <div class="col-4 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img class="rounded" src="assets/img/gallery/company-2.png" alt="" style="width: 25%;"/></div>
+            <div class="col-4 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img class="rounded" src="assets/img/gallery/company-3.png" alt="" style="width: 25%;"/></div>
         </div>
         </div>
         <!-- end of .container-->
