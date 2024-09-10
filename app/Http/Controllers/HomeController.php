@@ -23,12 +23,12 @@ class HomeController extends Controller
         // Passa todos os dados para a view home
         return view(
             'home',
-            compact(
-                'sectionOne',
+            // compact(
+                // 'sectionOne',
                 // 'produtos',
                 // 'categorias',
                 // 'clientes'
-            )
+            // )
         );
     }
 }

@@ -5,7 +5,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" data-navbar-on-scroll="data-navbar-on-scroll">
         <div class="container"><a class="navbar-brand d-flex align-items-center fw-bold fs-2" href="index.html">
-            <div class="text-warning">th</div>
+            <div class="text-success">th</div>
             <div class="text-1000">grillo</div>
         </a>
         <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -20,11 +20,10 @@
             <form class="ps-lg-5">
             {{-- <button class="btn btn-lg btn-primary rounded-pill order-0" type="submit">Entre em contato</button> --}}
             <a href="https://api.whatsapp.com/send?phone=5541996241011&text=Ol%C3%A1%2C+th%21%0A%0Avenho+do+site+%2Athgrillo.com%2A.%0A%0AVou+te+passar+mais+informa%C3%A7%C3%B5es+sobre+meu+neg%C3%B3cio."
-   class="btn btn-lg btn-primary rounded-pill order-0" 
-   target="_blank" 
-   rel="noopener noreferrer">
-    Entre em contato
-</a>
+                class="btn btn-lg btn-success rounded-pill order-0" 
+                target="_blank" 
+                rel="noopener noreferrer">Entre em contato
+            </a>
 
             </form>
         </div>
@@ -42,18 +41,14 @@
             </div>
             <div class="col-md-7 col-lg-6 text-center text-md-start"><span class="badge bg-light rounded-pill text-dark align-items-center d-flex flex-row-reverse justify-content-end mx-auto mx-md-0 ps-0 w-75 w-sm-50 w-md-75 w-xl-50 mb-3">#1 Sua Melhor Opção<img class="img-fluid float-start me-3" src="assets/img/illustrations/arrow-right.png" alt=""/></span>
             <h1 class="mb-4 display-3 fw-bold lh-sm">Soluções em TI <br class="d-block d-lg-none d-xl-block" />pra sua Empresa</h1>
-            <p class="mt-3 mb-4 fs-1">Aumente a produtividade do seu negócio <br class="d-none d-lg-block" />managing your personal budgets.</p><a class="btn btn-lg btn-primary rounded-pill hover-top" href="#" role="button">Conhecer</a>
+            <p class="mt-3 mb-4 fs-1">Transforme seu negócio com soluções tecnológicas<br class="d-none d-lg-block" /> que maximizam a produtividade e impulsionam <br class="d-none d-lg-block" /> sua eficiência para um novo patamar.</p><a class="btn btn-lg btn-success rounded-pill hover-top" href="#" role="button">Conhecer</a>
             {{-- <a class="btn btn-link ps-md-4" href="#" role="button"> Watch demo video</a> --}}
             </div>
         </div>
         </div>
     </section>
 
-
-    <!-- ============================================-->
-    <!-- <section> begin ============================-->
     <section class="py-7">
-
         <div class="container">
         <div class="row">
             <div class="col-12 mx-auto align-items-center text-center">
@@ -61,19 +56,13 @@
             </div>
         </div>
         <div class="row align-items-center justify-content-center justify-content-lg-around">
-            <div class="col-6 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img src="assets/img/gallery/company-1.png" alt="" /></div>
-            <div class="col-6 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img src="assets/img/gallery/company-2.png" alt="" /></div>
-            <div class="col-6 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img src="assets/img/gallery/company-3.png" alt="" /></div>
-            <div class="col-6 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img src="assets/img/gallery/company-4.png" alt="" /></div>
-            <div class="col-6 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img src="assets/img/gallery/company-1.png" alt="" /></div>
+            <div class="col-6 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img src="assets/img/gallery/company-1.png" alt="MarGP Logo" style="width: 25%;"/></div>
+            <div class="col-6 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img class="rounded" src="assets/img/gallery/company-2.png" alt="" style="width: 25%;"/></div>
+            <div class="col-6 col-sm-4 col-md-4 col-lg-2 px-md-0 mb-5 mb-lg-0 text-center"><img class="rounded" src="assets/img/gallery/company-3.png" alt="" style="width: 25%;"/></div>
         </div>
         </div>
         <!-- end of .container-->
-
     </section>
-    <!-- <section> close ============================-->
-    <!-- ============================================-->
-
 
     <section class="py-5" id="features">
         <div class="container-lg">
@@ -81,26 +70,26 @@
             <div class="col-md-5 col-lg-6 order-md-0 text-center text-md-start"><img class="img-fluid" src="assets/img/illustrations/feature-bg.png" width="550" alt="" /></div>
             <div class="col-md-7 col-lg-6 px-sm-5 px-md-0">
             <h6 class="fw-bold fs-4 display-3 lh-sm">Serviços <br />oferecidos</h6>
-            <p class="my-4">Aumente seu alcance e engajamento no mundo digital <br class="d-none d-xl-block" />Se preocupe somente com o que importa pra você.</p>
+            <p class="my-4">Aumente seu alcance e engajamento no mundo digital. Se preocupe somente com o que importa pra você.</p>
             <div class="d-flex align-items-center mb-5">
                 <div><img class="img-fluid" src="assets/img/illustrations/fast-performance.png" width="90" alt="" /></div>
                 <div class="px-4">
-                <h5 class="fw-bold text-danger">Performance</h5>
-                <p>Utilizamos técnologias modernas <br class="d-none d-xl-block"> para o seu negócio / empresa <br class="d-none d-xl-block"> estar sempre online.</p>
+                <h5 class="fw-bold text-danger">Sites Rápidos</h5>
+                <p>Utilizamos tecnologias modernas para garantir que seu <br class="d-none d-xl-block"> negócio ou empresa esteja sempre online com velocidade <br class="d-none d-xl-block">e eficiência.estar sempre online.</p>
                 </div>
             </div>
             <div class="d-flex align-items-center mb-5">
                 <div><img class="img-fluid" src="assets/img/illustrations/prototype.png" width="90" alt="" /></div>
                 <div class="px-4">
-                <h5 class="fw-bold text-primary">SEO</h5>
-                <p>Get your blood tests delivered at <br class="d-none d-xl-block"> home collect a sample from the <br class="d-none d-xl-block"> news your blood tests</p>
+                <h5 class="fw-bold text-primary">Projetos Personalizaveis</h5>
+                <p>Desenvolvemos soluções sob medida para atender <br class="d-none d-xl-block"> às necessidades específicas do seu negócio, <br class="d-none d-xl-block">garantindo um site que reflete sua identidade.</p>
                 </div>
             </div>
             <div class="d-flex align-items-center mb-5">
                 <div><img class="img-fluid" src="assets/img/illustrations/vector.png" width="90" alt="" /></div>
                 <div class="px-4">
-                <h5 class="fw-bold text-success">Designs Modernos</h5>
-                <p>Get your blood tests delivered at <br class="d-none d-xl-block"> home collect a sample from the <br class="d-none d-xl-block"> news your blood tests</p>
+                <h5 class="fw-bold text-success">Criação de Conteúdo</h5>
+                <p>Oferecemos serviços de criação de conteúdo original <br class="d-none d-xl-block">e relevante para atrair e engajar seu <br class="d-none d-xl-block"> público-alvo de forma efetiva.</p>
                 </div>
             </div>
             </div>
@@ -108,192 +97,149 @@
         </div>
     </section>
 
-
-    <!-- ============================================-->
-    <!-- <section> begin ============================-->
     <section class="py-5">
-
         <div class="container">
         <div class="row align-items-center mb-6">
             <div class="col-md-5 col-lg-4 offset-lg-1">
             <h1 class="fw-bold lh-base">Esteja onde seus clientes se conectam! Presença é tudo.</h1>
             </div>
             <div class="col-md-6 col-lg-5 offset-lg-1 border-start py-5 ps-5">
-            <p class="mb-0">The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.</p>
+            <p class="mb-0 text-justify">Com a maioria dos acessos à internet sendo feitos por dispositivos móveis, criamos sites otimizados para celulares para garantir uma experiência perfeita em qualquer lugar. Esteja presente nos canais mais relevantes e ofereça acesso fácil a seus clientes.</p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4 col-lg-3 offset-lg-1 mb-4">
             <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/automatic.png" width="90" alt="" /></div>
             <h5 class="fw-bold text-danger">Aumente a carteira de clientes</h5>
-            <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+            <p class="mt-2 mb-0">Atraia mais clientes e expanda seus negócios com nossa ajuda.
+            </p>
             </div>
             <div class="col-md-4 col-lg-3 offset-lg-1 mb-4">
             <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/network.png" width="90" alt="" /></div>
             <h5 class="fw-bold text-primary">Conexões</h5>
-            <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+            <p class="mt-2 mb-0">Fortaleça sua presença online e conecte-se com seu público-alvo.
+            </p>
             </div>
             <div class="col-md-4 col-lg-3 offset-lg-1 mb-4">
             <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/rewards.png" width="90" alt="" /></div>
             <h5 class="fw-bold text-success">Pós-venda e Suporte</h5>
-            <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+            <p class="mt-2 mb-0">Oferecemos suporte contínuo e atendimento pós-venda para garantir sua satisfação.
+            </p>
             </div>
         </div>
         </div>
         <!-- end of .container-->
-
     </section>
-    <!-- <section> close ============================-->
-    <!-- ============================================-->
 
-
-
-
-    <!-- ============================================-->
-    <!-- <section> begin ============================-->
     <section class="py-6">
-
         <div class="container">
         <div class="row align-items-center">
             <div class="col-md-5 order-md-0 text-center text-md-start"><img class="img-fluid mb-4" src="assets/img/illustrations/call-to-action.png" width="550" alt="" /></div>
             <div class="col-md-6 text-center text-md-start offset-md-1">
-            <h6 class="fw-bold fs-4 display-3 lh-sm">Desenhado &amp; programado<br />pro seu negócio<br />pra você</h6>
-            <p class="my-4 pe-xl-5">Temos serviços adicionais caso seja necessário alguma ferramenta customizável.</p>
+            <h6 class="fw-bold fs-4 display-3 lh-sm">Desenhado &amp; programado<br />pro seu negócio<br /></h6>
+            <p class="my-4 pe-xl-5 text-justify">Criamos sites personalizados que atendem às necessidades específicas do seu negócio. Além disso, oferecemos serviços adicionais para incluir ferramentas customizáveis, garantindo que sua solução digital seja perfeita e adaptada às suas demandas.</p>
             {{-- <a class="btn btn-lg btn-primary rounded-pill hover-top" href="#" role="button">Learn more</a> --}}
             </div>
         </div>
         </div>
         <!-- end of .container-->
-
     </section>
-    <!-- <section> close ============================-->
-    <!-- ============================================-->
 
-
-
-
-    <!-- ============================================-->
-    <!-- <section> begin ============================-->
     <section class="py-6">
-
         <div class="container">
         <div class="row justify-content-center mb-6">
             <div class="col-lg-6 text-center mx-auto mb-3 mb-md-5 mt-4">
             <h6 class="fw-bold fs-4 display-3 lh-sm">Por que escolher <br />nossa equipe? </h6>
-            <p class="mb-0">The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.</p>
+            <p class="mb-0">Nosso time usa tecnologia de ponta e design inovador para destacar sua presença online e conectar você com seu público nas principais plataformas digitais.
+            </p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/app.png" width="90" alt="" />
                 <h5 class="fw-bold">Desenvolvimento Web</h5>
-                <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+                <p class="mb-md-0">Atraia mais clientes e expanda seus negócios com soluções web personalizadas e eficazes, criadas para atender às suas necessidades específicas.
+                </p>
             </div>
             </div>
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/time-award.png" width="90" alt="" />
                 <h5 class="fw-bold">Foco na Qualidade</h5>
-                <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+                <p class="mb-md-0">Fortaleça sua presença online com um site de alta qualidade que conecta você diretamente ao seu público-alvo, oferecendo uma experiência de usuário excepcional.
+                </p>
             </div>
             </div>
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/cloud.png" width="90" alt="" />
                 <h5 class="fw-bold">Cloud / Host</h5>
-                <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+                <p class="mb-md-0">Oferecemos soluções de hospedagem confiáveis e escaláveis na nuvem, garantindo que seu site esteja sempre acessível e com excelente desempenho.
+                </p>
             </div>
             </div>
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/customization.png" width="90" alt="" />
                 <h5 class="fw-bold">Customização</h5>
-                <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+                <p class="mb-md-0">Desenvolvemos ferramentas e funcionalidades sob medida para atender às necessidades específicas do seu negócio, proporcionando uma solução única e eficiente.
+                </p>
             </div>
             </div>
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/ux.png" width="90" alt="" />
                 <h5 class="fw-bold">Planejamento UX</h5>
-                <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+                <p class="mb-md-0">Criamos experiências de usuário (UX) intuitivas e envolventes, planejadas para maximizar a satisfação e facilitar a navegação dos seus visitantes.
+                </p>
             </div>
             </div>
             <div class="col-md-4 mb-6">
             <div class="text-center px-lg-3"><img class="img-fluid mb-3" src="assets/img/illustrations/support.png" width="90" alt="" />
                 <h5 class="fw-bold">Suporte Técnico</h5>
-                <p class="mb-md-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+                <p class="mb-md-0">Disponibilizamos suporte técnico contínuo para garantir que seu site funcione perfeitamente e para resolver qualquer problema rapidamente.
+                </p>
             </div>
             </div>
         </div>
         </div>
         <!-- end of .container-->
-
     </section>
-    <!-- <section> close ============================-->
-    <!-- ============================================-->
 
-
-
-
-    <!-- ============================================-->
-    <!-- <section> begin ============================-->
     <section class="py-6">
-
         <div class="container">
         <div class="container">
             <div class="row align-items-center">
             <div class="col-md-5 order-md-1 text-center text-md-start"><img class="img-fluid mb-4" src="assets/img/illustrations/ultimate-feature.png" alt="" /></div>
             <div class="col-md-6 text-center text-md-start">
-                <h6 class="fw-bold fs-4 display-3 lh-sm">Ultimos serviços<br />que criamos</h6>
-                <p class="my-4 pe-xl-5"> The rise of mobile devices transforms the way we consume information entirely.</p>
+                <h6 class="fw-bold fs-4 display-3 lh-sm">Ultimos serviços<br />oferecidos</h6>
+                <p class="my-4 pe-xl-5">Confira nossos projetos mais recentes e veja como aplicamos soluções inovadoras para atender às necessidades dos nossos clientes, sempre com foco em resultados excepcionais.</p>
                 <div class="row">
                 <div class="col-md-6">
                     <div class="mb-4">
                     <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/app.png" width="90" alt="" /></div>
-                    <h5 class="fw-bold text-undefined">WebApp</h5>
-                    <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="mb-4">
-                    <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/ux.png" width="90" alt="" /></div>
-                    <h5 class="fw-bold text-undefined">Planejamento UX</h5>
-                    <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="mb-4">
-                    <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/cloud.png" width="90" alt="" /></div>
-                    <h5 class="fw-bold text-undefined">Cloud Storage</h5>
-                    <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+                    <h5 class="fw-bold text-undefined">Criação de Site</h5>
+                    <p class="mt-2 mb-0">Nosso serviço mais solicitado, o desenvolvimento web, combina design moderno e funcionalidade avançada para criar sites que atendem às suas necessidades e superam suas expectativas.</p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="mb-4">
                     <div class="py-4"><img class="img-fluid" src="assets/img/illustrations/support.png" width="90" alt="" /></div>
-                    <h5 class="fw-bold text-undefined">Suporte Técnico</h5>
-                    <p class="mt-2 mb-0">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+                    <h5 class="fw-bold text-undefined">Suporte e Pós-vendas</h5>
+                    <p class="mt-2 mb-0">Nosso compromisso vai além da entrega do projeto. Oferecemos suporte técnico contínuo e atenção pós-venda para garantir que seu site funcione perfeitamente e que qualquer problema seja resolvido rapidamente.</p>
                     </div>
                 </div>
-                </div><a class="btn btn-lg btn-primary rounded-pill hover-top" href="#" role="button">See all</a>
+                </div><a class="btn btn-lg btn-success rounded-pill hover-top" href="#" role="button">Contato</a>
             </div>
             </div>
         </div>
         </div>
         <!-- end of .container-->
-
     </section>
-    <!-- <section> close ============================-->
-    <!-- ============================================-->
 
-
-
-
-    <!-- ============================================-->
-    <!-- <section> begin ============================-->
     <section class="py-8" id="pricing">
 
         <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8 col-lg-6 col-xxl-5 text-center mb-3">
-            <h6 class="fw-bold fs-4 display-3 lh-sm mb-3">Garanta bons serviços, cobranças extras</h6>
-            <p class="mb-4">The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.</p>
+            <h6 class="fw-bold fs-4 display-3 lh-sm mb-3">Garanta o melhor Plano</h6>
+            <p class="mb-4">Além dos planos definidos, temos serviços adicionais. Como Criação de conteúdo para blogs, trafego pago e landing pages.</p>
             </div>
         </div>
         <div class="row flex-center">
@@ -321,7 +267,7 @@
                     <li class="text-700 py-2 text-secondary">SEO básico</li>
                     <li class="text-700 py-2 text-secondary">Hospedagem e domínio</li>
                     <li class="text-700 py-2 text-secondary">Suporte Técnico 3 meses    </li>
-                </ul><a class="btn btn-lg btn-primary rounded-pill mb-3" href="#">Fechar</a>
+                </ul><a class="btn btn-lg btn-success rounded-pill mb-3" href="#">Fechar</a>
                 </div>
             </div>
             </div>
@@ -329,7 +275,7 @@
             <div class="card shadow-lg mb-4">
                 <div class="card-header border-bottom-0 pt-7 pb-5">
                 <div class="d-flex justify-content-center">
-                    <h1 class="fw-bold">$189</h1><span class="d-flex align-items-center">/mês</span>
+                    <h1 class="fw-bold">$249</h1><span class="d-flex align-items-center">/mês</span>
                 </div>
                 <h5 class="fw-bold text-center">Business</h5><span class="text-700 text-center d-block">For small teams or office</span>
                 </div>
@@ -342,7 +288,7 @@
                     <li class="text-700 py-2 text-secondary">Funcionalidades simples</li>
                     <li class="text-700 py-2 text-secondary">Suporte por 6 meses</li>
                 </ul>
-                <div class="d-flex flex-column"> <a class="btn btn-lg btn-primary rounded-pill mb-3" href="#">Fechar</a></div>
+                <div class="d-flex flex-column"> <a class="btn btn-lg btn-success rounded-pill mb-3" href="#">Fechar</a></div>
                 </div>
             </div>
             </div>
@@ -350,7 +296,7 @@
             <div class="card shadow-lg mb-4">
                 <div class="card-header border-bottom-0 pt-7 pb-5">
                 <div class="d-flex justify-content-center">
-                    <h1 class="fw-bold">$489</h1><span class="d-flex align-items-center">/mês</span>
+                    <h1 class="fw-bold">$749</h1><span class="d-flex align-items-center">/mês</span>
                 </div>
                 <h5 class="fw-bold text-center">Master</h5><span class="text-700 text-center d-block">E-commerce, empresas com alta demanda de conteúdo.</span>
                 </div>
@@ -364,7 +310,7 @@
                     <li class="text-700 py-2 text-secondary">Funcionalidades Avançadas</li>
                     <li class="text-700 py-2 text-secondary">Suporte por 12 meses</li>
                 </ul>
-                <div class="d-flex flex-column"> <a class="btn btn-lg btn-primary rounded-pill mb-3" href="#">Fechar</a></div>
+                <div class="d-flex flex-column"> <a class="btn btn-lg btn-success rounded-pill mb-3" href="#">Fechar</a></div>
                 </div>
             </div>
             </div>
@@ -507,7 +453,7 @@
                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1"><span class="mb-0 fw-bold text-start fs-1 text-1000">Posso escolher o tema do meu site?</span></button>
                 </h2>
                 <div class="accordion-collapse collapse show" id="collapse1" aria-labelledby="heading1" data-bs-parent="#accordionExample">
-                    <div class="accordion-body bg-100">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</div>
+                    <div class="accordion-body bg-100">Sim, possuímos uma boa variedade de templates pra você escolher o que mais combina com seu negócio.</div>
                 </div>
                 </div>
                 <div class="accordion-item mb-2">
@@ -515,7 +461,7 @@
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true" aria-controls="collapse2"><span class="mb-0 fw-bold text-start fs-1 text-1000">Em quanto tempo o meu site estará no ar?</span></button>
                 </h2>
                 <div class="accordion-collapse collapse" id="collapse2" aria-labelledby="heading2" data-bs-parent="#accordionExample">
-                    <div class="accordion-body bg-100">You can issue either partial or full refunds. There are no fees to refund a charge, but the fees from the original charge are not returned.</div>
+                    <div class="accordion-body bg-100">Alguns projetos podem estar no ar em apenas duas semanas, mas isso varia do tamanho e complexidade da sua aplicação. Projetos são entregues em média 3 ou 4 semanas.</div>
                 </div>
                 </div>
                 <div class="accordion-item mb-2">
@@ -523,7 +469,7 @@
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="true" aria-controls="collapse3"><span class="mb-0 fw-bold text-start fs-1 text-1000">Preciso de um sistema customizado, vocês fazem?</span></button>
                 </h2>
                 <div class="accordion-collapse collapse" id="collapse3" aria-labelledby="heading3" data-bs-parent="#accordionExample">
-                    <div class="accordion-body bg-100">Disputed payments (also known as chargebacks) incur a $15.00 fee. If the customer’s bank resolves the dispute in your favor, the fee is fully refunded.</div>
+                    <div class="accordion-body bg-100">Sim, faremos uma reunião para entender sobre situação atual e avaliaremos o melhor solução pro tamanho da sua empresa.</div>
                 </div>
                 </div>
                 <div class="accordion-item mb-2">
@@ -531,7 +477,7 @@
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="true" aria-controls="collapse4"><span class="mb-0 fw-bold text-start fs-1 text-1000">O suporte técnico pode me ajudar em qualquer momento?</span></button>
                 </h2>
                 <div class="accordion-collapse collapse" id="collapse4" aria-labelledby="heading4" data-bs-parent="#accordionExample">
-                    <div class="accordion-body bg-100">There are no additional fees for using our mobile SDKs or to accept payments using consumer wallets like Apple Pay or Google Pay.</div>
+                    <div class="accordion-body bg-100">Sim, nosso suporte é 24/7. Atendemos a qualquer horário.</div>
                 </div>
                 </div>
                 <div class="accordion-item mb-2">
@@ -539,7 +485,7 @@
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5"><span class="mb-0 fw-bold text-start fs-1 text-1000">Podemos fazer uma parceria?</span></button>
                 </h2>
                 <div class="accordion-collapse collapse" id="collapse5" aria-labelledby="heading5" data-bs-parent="#accordionExample">
-                    <div class="accordion-body bg-100">There are no additional fees for using our mobile SDKs or to accept payments using consumer wallets like Apple Pay or Google Pay.</div>
+                    <div class="accordion-body bg-100">Claro, estaremos sempre abertos para novas parcerias e trabalhos em conjunto. Nós só crescemos mais se mais pessoas estiverem conectadas.</div>
                 </div>
                 </div>
             </div>
@@ -549,9 +495,6 @@
         <!-- end of .container-->
 
     </section>
-    <!-- <section> close ============================-->
-    <!-- ============================================-->
-
 
     {{-- <section class="py-6">
         <hr />
@@ -567,11 +510,7 @@
         </div>
     </section> --}}
 
-
-    <!-- ============================================-->
-    <!-- <section> begin ============================-->
     <section class="py-8 bg-1000">
-
         <div class="container">
         <div class="row flex-center">
             <div class="col-auto mb-5"><a class="pe-2 d-flex align-items-center text-decoration-none fw-bold fs-3" href="#">
@@ -614,7 +553,7 @@
         </div>
         <div class="row flex-center">
             <div class="col-auto">
-            <p class="mb-0 fs--1 text-700">&copy; made with&nbsp;
+            <p class="mb-0 fs--1 text-700">feito com&nbsp;
                 <svg class="bi bi-suit-heart-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" viewBox="0 0 16 16">
                 <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"></path>
                 </svg>&nbsp; by&nbsp;<a class="text-700" href="https://thgrillo.com/" target="_blank">thgrillo </a>
@@ -623,8 +562,6 @@
         </div>
         </div>
         <!-- end of .container-->
-
     </section>
-    <!-- <section> close ============================-->
-    <!-- ============================================-->
+
 @endsection

@@ -1,10 +1,12 @@
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-
+@php
+    $title = "th - Home";
+@endphp
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>thapp </title>
+        <title>{{ $title }} </title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
@@ -37,7 +39,7 @@
     <header>
         @include('partials.header')
     </header> --}}
-
+    {{-- <?php dd(get_defined_vars()); ?> --}}
     <!-- ===============================================-->
     <!--    Main Content-->
     <!-- ===============================================-->
