@@ -14,7 +14,7 @@
             <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium active" aria-current="page" href="#home">Home</a></li>
             <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#features">Serviços</a></li>
             <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#pricing">Planos</a></li>
-            <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#testimonial">Depoimentos</a></li>
+            {{-- <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#testimonial">Depoimentos</a></li> --}}
             <li class="nav-item" data-anchor="data-anchor"><a class="nav-link fw-medium" href="#faq">FAQ</a></li>
             </ul>
             <form class="ps-lg-5">
@@ -256,17 +256,17 @@
                 <div class="card shadow-lg mb-4 border-0">
                 <div class="card-header border-bottom-0 pt-7 pb-5">
                 <div class="d-flex justify-content-center">
-                    <h1 class="fw-bold">$69</h1><span class="d-flex align-items-center">/mês</span>
+                    <h1 class="fw-bold">$49</h1><span class="d-flex align-items-center">/mês</span>
                 </div>
-                <h5 class="fw-bold text-center">Basic</h5><span class="text-700 text-center d-block">Empresa pequena ou Portfólio</span>
+                <h5 class="fw-bold text-center">Basic</h5><span class="text-700 text-center d-block">Após 12 meses</span>
                 </div>
                 <div class="card-body mx-auto">
                 <ul class="list-unstyled mb-4">
                     <li class="text-700 py-2 text-secondary">Design Responsivo</li>
-                    <li class="text-700 py-2 text-secondary">Até 5 páginas</li>
+                    <li class="text-700 py-2 text-secondary">Site de Página Única</li>
                     <li class="text-700 py-2 text-secondary">SEO básico</li>
                     <li class="text-700 py-2 text-secondary">Hospedagem e domínio</li>
-                    <li class="text-700 py-2 text-secondary">Suporte Técnico 3 meses    </li>
+                    <li class="text-700 py-2 text-secondary">Suporte Técnico</li>
                 </ul><a class="btn btn-lg btn-success rounded-pill mb-3" href="#">Fechar</a>
                 </div>
             </div>
@@ -275,9 +275,9 @@
             <div class="card shadow-lg mb-4">
                 <div class="card-header border-bottom-0 pt-7 pb-5">
                 <div class="d-flex justify-content-center">
-                    <h1 class="fw-bold">$249</h1><span class="d-flex align-items-center">/mês</span>
+                    <h1 class="fw-bold">$119</h1><span class="d-flex align-items-center">/mês</span>
                 </div>
-                <h5 class="fw-bold text-center">Business</h5><span class="text-700 text-center d-block">For small teams or office</span>
+                <h5 class="fw-bold text-center">Business</h5><span class="text-700 text-center d-block">Após 12 meses</span>
                 </div>
                 <div class="card-body mx-auto">
                 <ul class="list-unstyled mb-4">
@@ -286,7 +286,7 @@
                     <li class="text-700 py-2 text-secondary">SEO otimizado</li>
                     <li class="text-700 py-2 text-secondary">Blog</li>
                     <li class="text-700 py-2 text-secondary">Funcionalidades simples</li>
-                    <li class="text-700 py-2 text-secondary">Suporte por 6 meses</li>
+                    <li class="text-700 py-2 text-secondary">Suporte Técnico</li>
                 </ul>
                 <div class="d-flex flex-column"> <a class="btn btn-lg btn-success rounded-pill mb-3" href="#">Fechar</a></div>
                 </div>
@@ -308,7 +308,7 @@
                     <li class="text-700 py-2 text-secondary">SEO otimizado / Performance</li>
                     <li class="text-700 py-2 text-secondary">Blog, Loja Virtual</li>
                     <li class="text-700 py-2 text-secondary">Funcionalidades Avançadas</li>
-                    <li class="text-700 py-2 text-secondary">Suporte por 12 meses</li>
+                    <li class="text-700 py-2 text-secondary">Suporte Técnico</li>
                 </ul>
                 <div class="d-flex flex-column"> <a class="btn btn-lg btn-success rounded-pill mb-3" href="#">Fechar</a></div>
                 </div>
