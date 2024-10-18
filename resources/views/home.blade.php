@@ -524,7 +524,7 @@
                 <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Home</a></li>
                 <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Serviços</a></li>
                 <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Planos</a></li>
-                <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Depoimentos</a></li>
+                {{-- <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">Depoimentos</a></li> --}}
                 <li class="list-inline-item me3 me-sm-4"><a class="text-light text-decoration-none" href="#!">FAQ</a></li>
             </ul>
             </div>
