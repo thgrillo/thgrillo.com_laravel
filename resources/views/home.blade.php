@@ -5,8 +5,8 @@
 
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" data-navbar-on-scroll="data-navbar-on-scroll">
         <div class="container"><a class="navbar-brand d-flex align-items-center fw-bold fs-2" href="index.html">
-            <div class="text-success">th</div>
-            <div class="text-1000">grillo</div>
+            <div class="nabla">&lt;th&gt;</div>
+            {{-- <div class="text-1000">grillo</div> --}}
         </a>
         <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
@@ -514,8 +514,8 @@
         <div class="container">
         <div class="row flex-center">
             <div class="col-auto mb-5"><a class="pe-2 d-flex align-items-center text-decoration-none fw-bold fs-3" href="#">
-                <div class="text-warning">th</div>
-                <div class="text-white">grillo</div>
+                <div class="nabla">&lt;th&gt;</div>
+                {{-- <div class="text-white">grillo</div> --}}
             </a></div>
         </div>
         <div class="row flex-center">
